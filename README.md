@@ -13,5 +13,9 @@ Zero Gecko 110 quick start breakout board features:
 
 EFM32ZG110 is chosen for presence of onchip ADC instead of EFM32ZG108.
 
+<img src="http://www.lemcu.org/EFM32ZG110-Quick-Start-Board.jpg" height="250px" />
+
+This board is designed to be used with [LemcUSB](https://github.com/lemcu/LemcUSB), a purely software based USB peripheral for ARM Cortex M0+ devices.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
